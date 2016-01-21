@@ -5,8 +5,6 @@ for 第三方开发者
 
 author: yosolin
 
-[TOC]
-
 <!-- MarkdownTOC -->
 
 - [HTTP包头字段](#http包头字段)
